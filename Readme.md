@@ -1,7 +1,9 @@
 # Hi, I'm Harish 👋
 
 💻 **Computer Science Engineering (Cybersecurity)**
+
 🔐 Aspiring **Web Application Penetration Tester**
+
 ⚙️ Interested in **Frontend Development, Security Research, and OSINT**
 
 ---
