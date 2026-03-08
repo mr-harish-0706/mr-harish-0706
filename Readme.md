@@ -2,7 +2,7 @@
 
 💻 **Computer Science Engineering (Cybersecurity)**
 🔐 Aspiring **Web Application Penetration Tester**
-⚙️ Interested in **Backend Development, Security Research, and OSINT**
+⚙️ Interested in **Frontend Development, Security Research, and OSINT**
 
 ---
 
@@ -10,7 +10,7 @@
 
 * 🎓 BTech CSE – Cybersecurity Specialization
 * 🛡️ Learning **Web Application Penetration Testing**
-* ⚙️ Backend development with **Node.js & APIs**
+* ⚙️ frontend development with **REACT.JS**
 * 🧠 Exploring **Cybersecurity + AI**
 * 🔍 Interested in **Red Teaming and OSINT investigations**
 
@@ -20,40 +20,35 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 
 ### Web
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>  <img width="48" height="48" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
 
 ### Security
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-black?style=for-the-badge\&logo=burpsuite)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge\&logo=wireshark)
+<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v2.png" alt="linux--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/shark.png" alt="shark"/>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706&theme=github_dark" width="500" />
 
 ---
 
 ## 🔥 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-harish-0706)
 
 ---
 
 ## 🧪 Projects
 
-### 🔐 Steganography Toolkit
+### 🔐 Steganography Toolkit ( on going )
 
 A toolkit for hiding and extracting secret data inside images.
 
@@ -62,50 +57,6 @@ Tech:
 * Python
 * Image Processing
 * Cryptography Concepts
-
----
-
-### 🎟️ Club Event Management Web App
-
-A web platform for college clubs to:
-
-* Post events
-* Allow students to book tickets
-* Follow clubs and receive notifications
-
-Tech:
-
-* React
-* Node.js
-* MongoDB
-
----
-
-### 🕵️ GitHub OSINT Investigation
-
-Cybersecurity investigation project analyzing public GitHub activity.
-
-Includes:
-
-* Repo intelligence
-* Commit tracking
-* Developer footprint analysis
-
----
-
-## 🖼️ Certificates
-
-<p align="center">
-<img src="CERTIFICATE_LINK_1" width="400">
-<img src="CERTIFICATE_LINK_2" width="400">
-<img src="CERTIFICATE_LINK_3" width="400">
-</p>
-
----
-
-## 📈 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -119,7 +70,7 @@ Includes:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harish3011)   [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/mr_harish_0706)   [![Mail](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:harishsekar0706@gmail.com)
 
 ---
 
