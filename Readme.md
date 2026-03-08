@@ -1,36 +1,126 @@
+# Hi, I'm Harish 👋
 
+💻 **Computer Science Engineering (Cybersecurity)**
+🔐 Aspiring **Web Application Penetration Tester**
+⚙️ Interested in **Backend Development, Security Research, and OSINT**
 
-# Hi there, I'm Harish 👋
+---
 
-I am a *BTech CSE student* with a *specialization in Cybersecurity. 
-I'm passionate about exploring the world of **cybersecurity, **ethical hacking, and **network security*. 
-I am constantly learning and working on improving my skills in the tech space.
+## 🚀 About Me
 
-## 🔭 Currently working on:
-- Building knowledge in *network security, **penetration testing, and **cryptography*.
-- Developing and securing applications using the latest tools and techniques.
-- Collaborating on university-based cybersecurity projects and challenges.
+* 🎓 BTech CSE – Cybersecurity Specialization
+* 🛡️ Learning **Web Application Penetration Testing**
+* ⚙️ Backend development with **Node.js & APIs**
+* 🧠 Exploring **Cybersecurity + AI**
+* 🔍 Interested in **Red Teaming and OSINT investigations**
 
-## 🌱 I’m currently learning:
-- *Advanced cybersecurity concepts* like *threat hunting, **malware analysis, and **digital forensics*.
-- Hands-on tools like *Wireshark, **Kali Linux, **Burp Suite, and **Metasploit*.
-- Programming in *Python* for automating security tasks and ethical hacking.
+---
 
-## 🤔 What I'm looking to do:
-- Contribute to *open-source cybersecurity projects*.
-- Gain more experience in *ethical hacking* and *vulnerability testing*.
-- Participate in *Capture The Flag (CTF)* challenges and *bug bounty programs*.
+## 🧰 Tech Stack
 
-## 💬 Ask me about:
-- *Cybersecurity topics*, especially network security, ethical hacking, and incident response.
-- Setting up secure environments, penetration testing techniques, and tools.
+### Languages
 
-## ⚡ Fun fact:
-- I enjoy solving security puzzles and challenges in my free time, especially *CTFs* and *bug bounty hunting*.
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 
-## 📫 How to reach me:
-- Email: harish@example.com
-- LinkedIn: [HARISH S](https://www.linkedin.com/in/harish-s-131553325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Twitter: [@HARISH_S_0706]([https://twitter.com/yourprofile](https://x.com/HARISH_S_0706?t=LLM3p6qm1NmjKRgyaZ5xDg&s=09))
+### Web
 
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 
+### Security
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-black?style=for-the-badge\&logo=burpsuite)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge\&logo=wireshark)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+
+---
+
+## 🔥 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+
+---
+
+## 🧪 Projects
+
+### 🔐 Steganography Toolkit
+
+A toolkit for hiding and extracting secret data inside images.
+
+Tech:
+
+* Python
+* Image Processing
+* Cryptography Concepts
+
+---
+
+### 🎟️ Club Event Management Web App
+
+A web platform for college clubs to:
+
+* Post events
+* Allow students to book tickets
+* Follow clubs and receive notifications
+
+Tech:
+
+* React
+* Node.js
+* MongoDB
+
+---
+
+### 🕵️ GitHub OSINT Investigation
+
+Cybersecurity investigation project analyzing public GitHub activity.
+
+Includes:
+
+* Repo intelligence
+* Commit tracking
+* Developer footprint analysis
+
+---
+
+## 🖼️ Certificates
+
+<p align="center">
+<img src="CERTIFICATE_LINK_1" width="400">
+<img src="CERTIFICATE_LINK_2" width="400">
+<img src="CERTIFICATE_LINK_3" width="400">
+</p>
+
+---
+
+## 📈 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎥 Coding Vibes
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
+
+---
+
+⭐ *Always building, always learning.*
