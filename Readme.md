@@ -56,9 +56,11 @@ A toolkit for hiding and extracting secret data inside images.
 
 Tech:
 
-* Python
-* Image Processing
-* Cryptography Concepts
+- **Framework**: [Electron](https://www.electronjs.org/) (Desktop Environment)
+- **Logic**: Node.js & Vanilla JavaScript
+- **Styling**: Vanilla CSS (Modern UI)
+- **Image Processing**: [pngjs](https://www.npmjs.com/package/pngjs) (Pixel-perfect manipulation)
+- **Encryption**: [crypto-js](https://www.npmjs.com/package/crypto-js) (AES-256 encryption)
 
 ---
 
