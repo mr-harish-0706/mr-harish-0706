@@ -18,9 +18,9 @@
 
 ---
 
-## I code with 
+## Skills
 
-### Languages
+### Programming Languages
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
 
