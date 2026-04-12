@@ -18,7 +18,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## I code with 
 
 ### Languages
 
