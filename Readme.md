@@ -1,74 +1,62 @@
 # Hi, I'm Harish 👋
 
-💻 **Computer Science Engineering (Cybersecurity)**
+💻 Computer Science Engineering (Cybersecurity)  
+🔐 Focused on Web Application Penetration Testing  
+⚙️ Building projects in security, frontend, and automation  
 
-🔐 Aspiring **Web Application Penetration Tester**
 
-⚙️ Interested in **Frontend Development, Security Research, and OSINT**
+## 🛠️ Skills
 
----
-
-## 🚀 About Me
-
-* 🎓 BTech CSE – Cybersecurity Specialization
-* 🛡️ Learning **Web Application Penetration Testing**
-* ⚙️ frontend development with **REACT.JS**
-* 🧠 Exploring **Cybersecurity + AI**
-* 🔍 Interested in **Red Teaming and OSINT investigations**
-
----
-
-## Skills
-
-### Programming Languages
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+### Programming
+- C++ (DSA, problem solving)
+- Python (scripting, automation)
+- JavaScript (frontend development)
 
 ### Web
+- HTML, CSS, React.js
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v2.png" alt="html-5--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>  <img width="48" height="48" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="react--v1"/>
+### Security & Tools
+- Linux
+- Nmap
+- Wireshark
+- Basic OSINT techniques
 
-### Security
-
-<img width="48" height="48" src="https://img.icons8.com/color/48/linux--v2.png" alt="linux--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/shark.png" alt="shark"/>
-
-
----
 
 ## 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706&theme=github_dark" width="500" />
 
----
+
 
 ## 🔥 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-harish-0706)
 
----
+
 
 ## 🧪 Projects
 
-### 🔐 Steganography Toolkit ( on going )
+### 🔐 Steganography Toolkit (Ongoing)
+A desktop application for securely hiding and extracting data from images using encryption.
 
-A toolkit for hiding and extracting secret data inside images.
+**Tech Stack:**
+- Electron.js
+- Node.js
+- PNGJS
+- Crypto-JS (AES-256)
 
-Tech:
-
-- **Framework**: [Electron](https://www.electronjs.org/) (Desktop Environment)
-- **Logic**: Node.js & Vanilla JavaScript
-- **Styling**: Vanilla CSS (Modern UI)
-- **Image Processing**: [pngjs](https://www.npmjs.com/package/pngjs) (Pixel-perfect manipulation)
-- **Encryption**: [crypto-js](https://www.npmjs.com/package/crypto-js) (AES-256 encryption)
+**Features:**
+- Data embedding in images
+- Secure encryption before embedding
+- Data extraction and decryption
 
 ---
 
-## 🎥 Coding Vibes
+## 🎯 Current Focus
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
+- Web Application Penetration Testing
+- Bug Bounty Learning
+- OSINT Investigations
 
 ---
 
