@@ -50,7 +50,12 @@ A desktop application for securely hiding and extracting data from images using 
 - Secure encryption before embedding
 - Data extraction and decryption
 
----
+## 🧩 Open Source Contributions
+
+- Contributed to ELab DAA Level 1 repository  
+  → Added missing solutions and improved file naming for better searchability  
+  → PR merged successfully  
+  🔗 https://github.com/xyz/repo
 
 ## 🎯 Current Focus
 
