@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706&theme=github_dark" width="500" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706&theme=github_dark" width="300" />
 
 
 
