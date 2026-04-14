@@ -24,8 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706&theme=github_dark)
-
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706&theme=github_dark&v=1)
 
 ## 🔥 GitHub Activity
 
