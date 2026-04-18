@@ -8,7 +8,7 @@
 ## 🛠️ Skills
 
 ### Programming
-- C++ (DSA, problem solving)
+- JAVA (DSA, problem solving)
 - Python (scripting, automation)
 - JavaScript (frontend development)
 
