@@ -53,8 +53,7 @@ A desktop application for securely hiding and extracting data from images using 
 - Contributed to ELab DAA Level 1 repository  
   → Added missing solutions and improved file naming for better searchability  
   → PR merged successfully  
-  🔗 https://github.com/xyz/repo
-
+  🔗 https://github.com/io-PEAK/srm-elab-daa-level-1
 ## 🎯 Current Focus
 
 - Web Application Penetration Testing
