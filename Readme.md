@@ -200,7 +200,6 @@ Contributed to the **SRM ELab DAA Level 1** repository.
 ## 📊 GitHub Stats
 
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-harish-0706\&theme=github_dark\&v=1)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mr_harish_0706)
 
 ---
