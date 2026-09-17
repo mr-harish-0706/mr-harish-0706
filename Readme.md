@@ -223,9 +223,7 @@ with a focus on developing secure applications, understanding how applications c
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/harish3011)
-
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge\&logo=instagram)](https://instagram.com/mr_harish_0706)
-
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge\&logo=gmail)](mailto:harishsekar0706@gmail.com)
 
 ---
